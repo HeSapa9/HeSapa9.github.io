@@ -8,3 +8,6 @@ I work for [ESIIL](https://esiil.org/our-team) as the Tribal Resilience Data Sci
 * james.sanovia@colorado.edu
 * https://www.linkedin.com/in/sanovia/
 * https://github.com/HeSapa9
+
+#### Map of UTTC and OLC
+<embed type="text/html" src="img/uttc.html" width="600" height="600">
