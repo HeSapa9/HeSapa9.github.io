@@ -10,4 +10,4 @@ I work for [ESIIL](https://esiil.org/our-team) as the Tribal Resilience Data Sci
 * https://github.com/HeSapa9
 
 #### Map of UTTC and OLC
-<embed type="text/html" src="img/uttc (1).html" width="400" height="400">
+<embed type="text/html" src="img/uttc (1).html" width="200" height="200">
